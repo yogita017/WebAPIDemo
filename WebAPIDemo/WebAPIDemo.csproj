@@ -170,7 +170,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
-    <Compile Include="Models\Class1.cs" />
     <Compile Include="Models\ProjectContextCls.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Models\Product.cs" />
